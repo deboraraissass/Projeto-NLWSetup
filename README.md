@@ -19,6 +19,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habit é um app para ajudar a rastrear os hábitos.
 
+- [Acesse_projeto_finalizado_online](https://deboraraissass.github.io/Projeto-NLWSetup/)
+
 Você pode visualizar o layout do projeto através [Desse-Link](<https://www.figma.com/file/bpJJrCkA4N10DnJT4oD6oV/Habits-(e)-(Community)?t=Efby7MjZ4QoaAm9v-0>).
 
 É necessário ter conta no [Figma](https://figma.com) para acessá-lo
