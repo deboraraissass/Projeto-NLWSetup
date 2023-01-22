@@ -27,5 +27,6 @@ Você pode visualizar o layout do projeto através [Desse-Link](<https://www.fig
 
 Esse projeto está sob a licença MIT.
 
-Feito com 💜 by Rocketseat
-[Participe-da-Comunidade!](https://discord.gg;rocketseat)
+Feito com 💜 by Debora Sousa
+
+[Participe-da-Comunidade-Rocketseat!](https://discord.gg;rocketseat)
